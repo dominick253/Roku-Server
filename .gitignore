@@ -1,0 +1,8 @@
+# Ignore the Videos directory
+Videos/
+
+# Ignore the output directory
+output/
+
+# Ignore the .env file
+.env
