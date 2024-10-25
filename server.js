@@ -17,6 +17,7 @@ app.use(cors({
     origin: '*',
     methods: ['GET', 'HEAD']
 }));
+//check test
 
 // Serve static files from the 'Videos' directory
 app.use('/Videos', express.static(path.join(__dirname, './Videos')));
