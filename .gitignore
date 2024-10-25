@@ -2,7 +2,7 @@
 Videos/
 
 # Ignore the output directory
-output/
+output/thumbnails
 
 # Ignore the .env file
 .env
