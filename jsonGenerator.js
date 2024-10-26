@@ -10,7 +10,7 @@ const outputFile = path.join(__dirname, 'output', 'roku_feed.json');
 async function generateJsonFeed() {
     try {
         const files = await fs.readdir(videosDirectory);
-        let monthCategories = []; // Change to an array
+        let themeCategories = [];
 
         const movies = await Promise.all(
             files.map(async (file, index) => {
@@ -22,39 +22,34 @@ async function generateJsonFeed() {
                 const duration = Math.floor(metadata.format.duration);
                 console.log(`Duration for ${filePath}: ${metadata.format.duration}`);
 
-                const title = path.parse(file).name
-                    .replace(/[|｜]/g, ' ')   // Replace any form of vertical bar with a space
-                    .replace(/[：]/g, ':');   // Replace full-width colon with a regular colon
+                // Extract the full title
+                const fullTitle = path.parse(file).name.replace(/[|｜]/g, ' ').replace(/[：]/g, ':');
+
+                // Extract theme from title: first try ':', then double space, then '|'
+                const theme = fullTitle.split(':')[0].trim() || 
+                              fullTitle.split('  ')[0].trim() || 
+                              fullTitle.split('|')[0].trim();
 
                 // Extract release date from title
-                const releaseDate = extractReleaseDateFromTitle(title);
+                const releaseDate = extractReleaseDateFromTitle(fullTitle);
                 const releaseDateObj = new Date(releaseDate);
-                const monthYear = `${releaseDateObj.getFullYear()}-${(releaseDateObj.getMonth() + 1).toString().padStart(2, '0')}`; // Format: YYYY-MM
 
                 // Generate the thumbnail and get its path
-                const thumbnailPath = await generateThumbnail(filePath, title);
-
-                // Determine category based on title
-                let category = 'Sermons';
-                if (title.includes('Sermon')) {
-                    category = 'Sermons';
-                } else if (title.includes('Event')) {
-                    category = 'Events';
-                }
+                const thumbnailPath = await generateThumbnail(filePath, fullTitle);
 
                 return {
                     id: `video${index}`,
-                    title: title,
-                    shortDescription: `Manteno Church Of The Nazarene ${title}.`,
-                    thumbnail: encodeURI(`${url}/output/thumbnails/${title}.jpg`), // Encode the thumbnail URL
+                    title: fullTitle,
+                    shortDescription: `Manteno Church Of The Nazarene ${fullTitle}.`,
+                    thumbnail: encodeURI(`${url}/output/thumbnails/${fullTitle}.jpg`), // Encode the thumbnail URL
                     releaseDate: releaseDate,
-                    releaseDateObj: releaseDateObj, // Keep track of the release date
-                    genres: ["Religious"], // Update genres as needed
+                    releaseDateObj: releaseDateObj,
+                    genres: ["Religious"],
                     content: {
                         duration: duration,
                         videos: [
                             {
-                                url: encodeURI(`${url}/stream/${path.basename(file)}`), // Keep original file name for the video URL
+                                url: encodeURI(`${url}/stream/${path.basename(file)}`),
                                 quality: "FHD",
                                 videoType: path.extname(file).slice(1).toUpperCase(),
                             },
@@ -65,41 +60,33 @@ async function generateJsonFeed() {
             })
         );
 
-        // Filter out null values and sort by releaseDate in descending order
-        const sortedMovies = movies.filter(Boolean).sort((a, b) => b.releaseDateObj - a.releaseDateObj);
+        // Filter out null values
+        const sortedMovies = movies.filter(Boolean);
 
-        // Organize movies into month-year categories
+        // Organize movies into theme categories
         sortedMovies.forEach(movie => {
-            const monthYear = `${movie.releaseDateObj.getFullYear()}-${(movie.releaseDateObj.getMonth() + 1).toString().padStart(2, '0')}`; // Format: YYYY-MM
-            const monthName = new Date(monthYear + '-01').toLocaleString('default', { month: 'long' });
-
-            // Check if the month category already exists
-            const existingCategory = monthCategories.find(cat => cat.monthYear === monthYear);
+            // Extract theme: first try ':', then double space, then '|'
+            const theme = movie.title.split(':')[0]?.trim() || 
+                          movie.title.split('  ')[0]?.trim() || 
+                          movie.title.split('|')[0]?.trim();
+            const existingCategory = themeCategories.find(cat => cat.themeTitle === theme);
             if (!existingCategory) {
-                monthCategories.push({ monthYear: monthYear, monthName: monthName, videos: [movie] }); // Add new month category
+                themeCategories.push({ themeTitle: theme, videos: [movie] });
             } else {
-                existingCategory.videos.push(movie); // Push video to existing month category
+                existingCategory.videos.push(movie);
             }
         });
 
-        // Sort videos within each month before adding to the feed
-        monthCategories.forEach(category => {
-            category.videos.sort((a, b) => new Date(b.releaseDate) - new Date(a.releaseDate)); // Sort videos by releaseDate in descending order
-        });
-
-        // Build the final feed object with sorted month categories
+        // Build the final feed object
         const feed = {
-            providerName: "Manteno Church Of The Nazarene: ",
+            providerName: "Manteno Church Of The Nazarene",
             lastUpdated: new Date().toISOString(),
             language: "en",
         };
 
-        // Add month categories to the feed in the correct order
-        monthCategories.sort((a, b) => b.monthYear.localeCompare(a.monthYear)); // Ensure correct order by monthYear
-        monthCategories.forEach(monthCategory => {
-            // Create the category key as "Month Year"
-            const categoryKey = `${monthCategory.monthName} ${monthCategory.monthYear.split('-')[0]}`;
-            feed[categoryKey] = monthCategory.videos; // Add the videos for each month
+        // Add themed categories to the feed
+        themeCategories.forEach(category => {
+            feed[category.themeTitle] = category.videos;
         });
 
         await fs.outputJson(outputFile, feed, { spaces: 2 });
@@ -108,6 +95,8 @@ async function generateJsonFeed() {
         console.error(`Error generating JSON feed: ${err.message}`);
     }
 }
+
+
 
 async function generateThumbnail(filePath, title) {
     return new Promise((resolve, reject) => {
@@ -159,7 +148,7 @@ function extractReleaseDateFromTitle(title) {
         return dateObj.toISOString().split('T')[0]; // Return YYYY-MM-DD
     }
     // Default release date if not found
-    return '2024-01-01';
+    return '2020-01-01';
 }
 
 // Generate the initial JSON feed
