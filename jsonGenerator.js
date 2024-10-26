@@ -65,7 +65,7 @@ async function generateJsonFeed() {
         sortedMovies.forEach(movie => {
             // Extract theme using the same regex
             const theme = movie.title.split(/ {2,}|:|\.{3}|[|]/)[0]?.trim();
-            const existingCategory = themeCategories.find(cat => cat.themeTitle === theme);
+            const existingCategory = themeCategories.find(cat => cat.themeTitle.localeCompare(theme, undefined, { sensitivity: 'accent' }) === 0);
             if (!existingCategory) {
                 themeCategories.push({ themeTitle: theme, videos: [movie] });
             } else {
