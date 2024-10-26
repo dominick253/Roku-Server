@@ -1,8 +1,8 @@
 {
   "providerName": "Manteno Church Of The Nazarene",
-  "lastUpdated": "2024-10-26T11:15:20.578Z",
+  "lastUpdated": "2024-10-26T11:23:57.869Z",
   "language": "en",
-  "1st Sunday of Advent   December 3, 2023": [
+  "1st Sunday of Advent": [
     {
       "id": "video0",
       "title": "1st Sunday of Advent   December 3, 2023",
@@ -23,7 +23,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.956Z"
+      "dateAdded": "2024-10-26T11:23:56.188Z"
     }
   ],
   "A Journey To Hope": [
@@ -47,7 +47,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.955Z"
+      "dateAdded": "2024-10-26T11:23:56.163Z"
     }
   ],
   "A Journey to Hope": [
@@ -71,10 +71,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.936Z"
+      "dateAdded": "2024-10-26T11:23:56.162Z"
     }
   ],
-  "A New Day   Pastor Ken Bushey   April 17, 2022": [
+  "A New Day": [
     {
       "id": "video3",
       "title": "A New Day   Pastor Ken Bushey   April 17, 2022",
@@ -95,7 +95,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.926Z"
+      "dateAdded": "2024-10-26T11:23:56.137Z"
     }
   ],
   "Adore": [
@@ -119,7 +119,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.898Z"
+      "dateAdded": "2024-10-26T11:23:56.133Z"
     },
     {
       "id": "video5",
@@ -141,7 +141,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.897Z"
+      "dateAdded": "2024-10-26T11:23:56.115Z"
     },
     {
       "id": "video6",
@@ -163,7 +163,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.896Z"
+      "dateAdded": "2024-10-26T11:23:56.113Z"
     },
     {
       "id": "video7",
@@ -185,7 +185,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.869Z"
+      "dateAdded": "2024-10-26T11:23:56.084Z"
     }
   ],
   "Be Real": [
@@ -209,7 +209,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.849Z"
+      "dateAdded": "2024-10-26T11:23:56.074Z"
     },
     {
       "id": "video9",
@@ -231,7 +231,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.429Z"
+      "dateAdded": "2024-10-26T11:23:57.706Z"
     },
     {
       "id": "video10",
@@ -253,7 +253,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.833Z"
+      "dateAdded": "2024-10-26T11:23:56.049Z"
     },
     {
       "id": "video11",
@@ -275,7 +275,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.428Z"
+      "dateAdded": "2024-10-26T11:23:57.701Z"
     },
     {
       "id": "video12",
@@ -297,10 +297,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:18.812Z"
+      "dateAdded": "2024-10-26T11:23:57.692Z"
     }
   ],
-  "Before I Go...A Life Laid Down   Pastor Ken Bushey   February 18, 2024": [
+  "Before I Go": [
     {
       "id": "video13",
       "title": "Before I Go...A Life Laid Down   Pastor Ken Bushey   February 18, 2024",
@@ -321,10 +321,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.422Z"
-    }
-  ],
-  "Before I Go...Perfectly One   Pastor Ken Bushey   March 24, 2024": [
+      "dateAdded": "2024-10-26T11:23:57.691Z"
+    },
     {
       "id": "video14",
       "title": "Before I Go...Perfectly One   Pastor Ken Bushey   March 24, 2024",
@@ -345,10 +343,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.416Z"
-    }
-  ],
-  "Before I Go...Praying in Jesus' Name   Pastor Ken Bushey   March 3, 2024": [
+      "dateAdded": "2024-10-26T11:23:57.680Z"
+    },
     {
       "id": "video15",
       "title": "Before I Go...Praying in Jesus' Name   Pastor Ken Bushey   March 3, 2024",
@@ -369,10 +365,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.414Z"
-    }
-  ],
-  "Before I Go...The Road to Joy   Pastor Ken Bushey   February 25, 2024": [
+      "dateAdded": "2024-10-26T11:23:57.675Z"
+    },
     {
       "id": "video16",
       "title": "Before I Go...The Road to Joy   Pastor Ken Bushey   February 25, 2024",
@@ -393,10 +387,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.403Z"
-    }
-  ],
-  "Before I Go...You Gotta Believe Me   Pastor Ken Bushey   March 10, 2024": [
+      "dateAdded": "2024-10-26T11:23:57.671Z"
+    },
     {
       "id": "video17",
       "title": "Before I Go...You Gotta Believe Me   Pastor Ken Bushey   March 10, 2024",
@@ -417,10 +409,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.399Z"
-    }
-  ],
-  "Before I Go...You Have an Advocate   Pastor Ken Bushey   March 17, 2024": [
+      "dateAdded": "2024-10-26T11:23:57.660Z"
+    },
     {
       "id": "video18",
       "title": "Before I Go...You Have an Advocate   Pastor Ken Bushey   March 17, 2024",
@@ -441,10 +431,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.394Z"
+      "dateAdded": "2024-10-26T11:23:57.659Z"
     }
   ],
-  "Christmas Eve   Pastor Ken Bushey   December 24, 2023": [
+  "Christmas Eve": [
     {
       "id": "video19",
       "title": "Christmas Eve   Pastor Ken Bushey   December 24, 2023",
@@ -465,10 +455,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.393Z"
+      "dateAdded": "2024-10-26T11:23:57.650Z"
     }
   ],
-  "Christmas Program   December 4, 2022": [
+  "Christmas Program": [
     {
       "id": "video20",
       "title": "Christmas Program   December 4, 2022",
@@ -489,7 +479,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.392Z"
+      "dateAdded": "2024-10-26T11:23:57.644Z"
     }
   ],
   "Citizens of Heaven": [
@@ -513,7 +503,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.381Z"
+      "dateAdded": "2024-10-26T11:23:57.643Z"
     },
     {
       "id": "video22",
@@ -535,7 +525,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.381Z"
+      "dateAdded": "2024-10-26T11:23:57.634Z"
     },
     {
       "id": "video23",
@@ -557,7 +547,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.380Z"
+      "dateAdded": "2024-10-26T11:23:57.627Z"
     },
     {
       "id": "video24",
@@ -579,10 +569,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.370Z"
+      "dateAdded": "2024-10-26T11:23:57.622Z"
     }
   ],
-  "Commissioned   Pastor Ken Bushey   June 5, 2022": [
+  "Commissioned": [
     {
       "id": "video25",
       "title": "Commissioned   Pastor Ken Bushey   June 5, 2022",
@@ -603,10 +593,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.369Z"
+      "dateAdded": "2024-10-26T11:23:57.615Z"
     }
   ],
-  "Cultivating the Heart of Jesus   Dr. Larry McKain   January 7, 2024": [
+  "Cultivating the Heart of Jesus": [
     {
       "id": "video26",
       "title": "Cultivating the Heart of Jesus   Dr. Larry McKain   January 7, 2024",
@@ -627,7 +617,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.362Z"
+      "dateAdded": "2024-10-26T11:23:57.610Z"
     }
   ],
   "Esther": [
@@ -651,7 +641,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.357Z"
+      "dateAdded": "2024-10-26T11:23:57.604Z"
     },
     {
       "id": "video28",
@@ -673,7 +663,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.356Z"
+      "dateAdded": "2024-10-26T11:23:57.603Z"
     },
     {
       "id": "video29",
@@ -695,7 +685,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.347Z"
+      "dateAdded": "2024-10-26T11:23:57.593Z"
     },
     {
       "id": "video30",
@@ -717,7 +707,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.340Z"
+      "dateAdded": "2024-10-26T11:23:57.593Z"
     },
     {
       "id": "video31",
@@ -739,7 +729,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.305Z"
+      "dateAdded": "2024-10-26T11:23:57.575Z"
     }
   ],
   "Facing Our Fears": [
@@ -763,7 +753,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.312Z"
+      "dateAdded": "2024-10-26T11:23:57.562Z"
     }
   ],
   "Faith Culture": [
@@ -787,7 +777,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.294Z"
+      "dateAdded": "2024-10-26T11:23:57.565Z"
     },
     {
       "id": "video34",
@@ -809,7 +799,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.288Z"
+      "dateAdded": "2024-10-26T11:23:57.550Z"
     },
     {
       "id": "video35",
@@ -831,7 +821,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.276Z"
+      "dateAdded": "2024-10-26T11:23:57.545Z"
     },
     {
       "id": "video36",
@@ -853,7 +843,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.264Z"
+      "dateAdded": "2024-10-26T11:23:57.536Z"
     },
     {
       "id": "video37",
@@ -875,7 +865,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.253Z"
+      "dateAdded": "2024-10-26T11:23:57.526Z"
     },
     {
       "id": "video38",
@@ -897,10 +887,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.249Z"
+      "dateAdded": "2024-10-26T11:23:57.518Z"
     }
   ],
-  "Faith Promise 2022   Dwight & Carolyn Rich   February 27, 2022": [
+  "Faith Promise 2022": [
     {
       "id": "video39",
       "title": "Faith Promise 2022   Dwight & Carolyn Rich   February 27, 2022",
@@ -921,10 +911,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.238Z"
+      "dateAdded": "2024-10-26T11:23:57.517Z"
     }
   ],
-  "Faith Promise 2023   Stephen Sickel   February 19, 2023": [
+  "Faith Promise 2023": [
     {
       "id": "video40",
       "title": "Faith Promise 2023   Stephen Sickel   February 19, 2023",
@@ -945,10 +935,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.229Z"
+      "dateAdded": "2024-10-26T11:23:57.497Z"
     }
   ],
-  "Faith Promise 2024   Dr. Jerry Porter   February 11, 2024": [
+  "Faith Promise 2024": [
     {
       "id": "video41",
       "title": "Faith Promise 2024   Dr. Jerry Porter   February 11, 2024",
@@ -969,7 +959,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.219Z"
+      "dateAdded": "2024-10-26T11:23:57.505Z"
     }
   ],
   "Forward Thinking": [
@@ -993,7 +983,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.213Z"
+      "dateAdded": "2024-10-26T11:23:57.489Z"
     },
     {
       "id": "video43",
@@ -1015,7 +1005,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.202Z"
+      "dateAdded": "2024-10-26T11:23:57.490Z"
     },
     {
       "id": "video44",
@@ -1037,7 +1027,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.195Z"
+      "dateAdded": "2024-10-26T11:23:57.475Z"
     },
     {
       "id": "video45",
@@ -1059,7 +1049,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.182Z"
+      "dateAdded": "2024-10-26T11:23:57.474Z"
     },
     {
       "id": "video46",
@@ -1081,7 +1071,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.175Z"
+      "dateAdded": "2024-10-26T11:23:57.446Z"
     },
     {
       "id": "video47",
@@ -1103,7 +1093,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.162Z"
+      "dateAdded": "2024-10-26T11:23:57.457Z"
     }
   ],
   "Fully Alive": [
@@ -1127,7 +1117,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.149Z"
+      "dateAdded": "2024-10-26T11:23:57.438Z"
     },
     {
       "id": "video49",
@@ -1149,7 +1139,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.142Z"
+      "dateAdded": "2024-10-26T11:23:57.428Z"
     },
     {
       "id": "video50",
@@ -1171,7 +1161,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.140Z"
+      "dateAdded": "2024-10-26T11:23:57.419Z"
     },
     {
       "id": "video51",
@@ -1193,7 +1183,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.124Z"
+      "dateAdded": "2024-10-26T11:23:57.405Z"
     },
     {
       "id": "video52",
@@ -1215,7 +1205,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.115Z"
+      "dateAdded": "2024-10-26T11:23:57.394Z"
     },
     {
       "id": "video53",
@@ -1237,10 +1227,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.102Z"
+      "dateAdded": "2024-10-26T11:23:57.387Z"
     }
   ],
-  "Fully Living   Pastor Marcus Cleveland   April 28, 2024": [
+  "Fully Living": [
     {
       "id": "video54",
       "title": "Fully Living   Pastor Marcus Cleveland   April 28, 2024",
@@ -1261,10 +1251,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.095Z"
+      "dateAdded": "2024-10-26T11:23:57.376Z"
     }
   ],
-  "General Assembly Sunday Service   Livestream of General Superintendent David Graves   June 11, 2023": [
+  "General Assembly Sunday Service": [
     {
       "id": "video55",
       "title": "General Assembly Sunday Service   Livestream of General Superintendent David Graves   June 11, 2023",
@@ -1285,7 +1275,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.081Z"
+      "dateAdded": "2024-10-26T11:23:57.368Z"
     }
   ],
   "Happy Mother's Day 2022!": [
@@ -1309,7 +1299,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.077Z"
+      "dateAdded": "2024-10-26T11:23:57.361Z"
     }
   ],
   "Harris Memorial Service": [
@@ -1333,7 +1323,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.062Z"
+      "dateAdded": "2024-10-26T11:23:57.360Z"
     }
   ],
   "House of Prayer": [
@@ -1357,10 +1347,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.056Z"
+      "dateAdded": "2024-10-26T11:23:57.346Z"
     }
   ],
-  "Installation Service   Pastor Ken Bushey   January 2, 2022": [
+  "Installation Service": [
     {
       "id": "video59",
       "title": "Installation Service   Pastor Ken Bushey   January 2, 2022",
@@ -1381,10 +1371,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.044Z"
+      "dateAdded": "2024-10-26T11:23:57.339Z"
     }
   ],
-  "Installation of Scott Whalen as District Superintendent   September 26, 2024": [
+  "Installation of Scott Whalen as District Superintendent": [
     {
       "id": "video60",
       "title": "Installation of Scott Whalen as District Superintendent   September 26, 2024",
@@ -1405,7 +1395,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.039Z"
+      "dateAdded": "2024-10-26T11:23:57.328Z"
     }
   ],
   "January 21, 2024 Baptism (Kasey & Jimmy)": [
@@ -1429,7 +1419,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.025Z"
+      "dateAdded": "2024-10-26T11:23:57.324Z"
     }
   ],
   "Jesus' Final Day": [
@@ -1453,7 +1443,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.012Z"
+      "dateAdded": "2024-10-26T11:23:57.307Z"
     },
     {
       "id": "video63",
@@ -1475,7 +1465,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.005Z"
+      "dateAdded": "2024-10-26T11:23:57.306Z"
     },
     {
       "id": "video64",
@@ -1497,7 +1487,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.004Z"
+      "dateAdded": "2024-10-26T11:23:57.296Z"
     }
   ],
   "Journey of Grace": [
@@ -1521,7 +1511,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.995Z"
+      "dateAdded": "2024-10-26T11:23:57.289Z"
     },
     {
       "id": "video66",
@@ -1543,7 +1533,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.990Z"
+      "dateAdded": "2024-10-26T11:23:57.274Z"
     },
     {
       "id": "video67",
@@ -1565,7 +1555,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.990Z"
+      "dateAdded": "2024-10-26T11:23:57.272Z"
     },
     {
       "id": "video68",
@@ -1587,7 +1577,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.989Z"
+      "dateAdded": "2024-10-26T11:23:57.258Z"
     },
     {
       "id": "video69",
@@ -1609,7 +1599,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.971Z"
+      "dateAdded": "2024-10-26T11:23:57.258Z"
     },
     {
       "id": "video70",
@@ -1631,7 +1621,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.970Z"
+      "dateAdded": "2024-10-26T11:23:57.257Z"
     },
     {
       "id": "video71",
@@ -1653,7 +1643,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.958Z"
+      "dateAdded": "2024-10-26T11:23:57.256Z"
     }
   ],
   "Journey to Grace": [
@@ -1677,10 +1667,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.949Z"
+      "dateAdded": "2024-10-26T11:23:57.245Z"
     }
   ],
-  "Life Can Begin Again   Pastor Ken Bushey   March 31, 2024": [
+  "Life Can Begin Again": [
     {
       "id": "video73",
       "title": "Life Can Begin Again   Pastor Ken Bushey   March 31, 2024",
@@ -1701,10 +1691,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.948Z"
+      "dateAdded": "2024-10-26T11:23:57.238Z"
     }
   ],
-  "Love Is...Always   Pastor Ken Bushey   July 7, 2024": [
+  "Love Is": [
     {
       "id": "video74",
       "title": "Love Is...Always   Pastor Ken Bushey   July 7, 2024",
@@ -1725,10 +1715,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.937Z"
-    }
-  ],
-  "Love Is...Forgiving   Pastor Ken Bushey   June 30, 2024": [
+      "dateAdded": "2024-10-26T11:23:57.237Z"
+    },
     {
       "id": "video75",
       "title": "Love Is...Forgiving   Pastor Ken Bushey   June 30, 2024",
@@ -1749,10 +1737,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.933Z"
-    }
-  ],
-  "Love Is...Humber   Pastor Ken Bushey   June 16, 2024": [
+      "dateAdded": "2024-10-26T11:23:57.225Z"
+    },
     {
       "id": "video76",
       "title": "Love Is...Humber   Pastor Ken Bushey   June 16, 2024",
@@ -1773,10 +1759,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.932Z"
-    }
-  ],
-  "Love Is...Patient   Pastor Ken Bushey   June 2, 2024": [
+      "dateAdded": "2024-10-26T11:23:57.224Z"
+    },
     {
       "id": "video77",
       "title": "Love Is...Patient   Pastor Ken Bushey   June 2, 2024",
@@ -1797,10 +1781,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.921Z"
-    }
-  ],
-  "Love Is...What Matters Most   Pastor Ken Bushey   May 26, 2024": [
+      "dateAdded": "2024-10-26T11:23:57.202Z"
+    },
     {
       "id": "video78",
       "title": "Love Is...What Matters Most   Pastor Ken Bushey   May 26, 2024",
@@ -1821,10 +1803,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.912Z"
+      "dateAdded": "2024-10-26T11:23:57.199Z"
     }
   ],
-  "Love is Kind   Pastor Ken Bushey   June 9, 2024": [
+  "Love is Kind": [
     {
       "id": "video79",
       "title": "Love is Kind   Pastor Ken Bushey   June 9, 2024",
@@ -1845,10 +1827,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.911Z"
+      "dateAdded": "2024-10-26T11:23:57.186Z"
     }
   ],
-  "Love is...Truthful   Pastor Ken Bushey   June 23, 2024": [
+  "Love is": [
     {
       "id": "video80",
       "title": "Love is...Truthful   Pastor Ken Bushey   June 23, 2024",
@@ -1869,10 +1851,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.897Z"
+      "dateAdded": "2024-10-26T11:23:57.161Z"
     }
   ],
-  "Loving Neighbors Like Yourself   Pastor Ken Bushey   February 20, 2022": [
+  "Loving Neighbors Like Yourself": [
     {
       "id": "video81",
       "title": "Loving Neighbors Like Yourself   Pastor Ken Bushey   February 20, 2022",
@@ -1893,10 +1875,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.864Z"
+      "dateAdded": "2024-10-26T11:23:57.149Z"
     }
   ],
-  "Make Room   Pastor Marcus Cleveland   January 1, 2023": [
+  "Make Room": [
     {
       "id": "video82",
       "title": "Make Room   Pastor Marcus Cleveland   January 1, 2023",
@@ -1917,7 +1899,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.860Z"
+      "dateAdded": "2024-10-26T11:23:57.141Z"
     }
   ],
   "Milestones": [
@@ -1941,7 +1923,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.846Z"
+      "dateAdded": "2024-10-26T11:23:57.137Z"
     },
     {
       "id": "video84",
@@ -1963,7 +1945,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.840Z"
+      "dateAdded": "2024-10-26T11:23:57.857Z"
     },
     {
       "id": "video85",
@@ -1985,7 +1967,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.838Z"
+      "dateAdded": "2024-10-26T11:23:57.127Z"
     },
     {
       "id": "video86",
@@ -2007,7 +1989,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.566Z"
+      "dateAdded": "2024-10-26T11:23:57.120Z"
     },
     {
       "id": "video87",
@@ -2029,7 +2011,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.826Z"
+      "dateAdded": "2024-10-26T11:23:57.113Z"
     },
     {
       "id": "video88",
@@ -2051,10 +2033,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.823Z"
+      "dateAdded": "2024-10-26T11:23:57.106Z"
     }
   ],
-  "Missionary Monte Cyr   September 4, 2022   Monte Cyr": [
+  "Missionary Monte Cyr": [
     {
       "id": "video89",
       "title": "Missionary Monte Cyr   September 4, 2022   Monte Cyr",
@@ -2075,10 +2057,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.822Z"
+      "dateAdded": "2024-10-26T11:23:57.106Z"
     }
   ],
-  "Monday PM Revival   Billy Huddleston   October 10, 2022": [
+  "Monday PM Revival": [
     {
       "id": "video90",
       "title": "Monday PM Revival   Billy Huddleston   October 10, 2022",
@@ -2099,10 +2081,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.808Z"
+      "dateAdded": "2024-10-26T11:23:57.093Z"
     }
   ],
-  "New Year's Eve   Pastor Marcus Cleveland   December 31, 2023": [
+  "New Year's Eve": [
     {
       "id": "video91",
       "title": "New Year's Eve   Pastor Marcus Cleveland   December 31, 2023",
@@ -2123,10 +2105,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.796Z"
+      "dateAdded": "2024-10-26T11:23:57.087Z"
     }
   ],
-  "Persevering Prayer   Pastor Ken Bushey   May 15, 2022": [
+  "Persevering Prayer": [
     {
       "id": "video92",
       "title": "Persevering Prayer   Pastor Ken Bushey   May 15, 2022",
@@ -2147,10 +2129,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.565Z"
+      "dateAdded": "2024-10-26T11:23:57.856Z"
     }
   ],
-  "Praying For Purpose   Pastor Michael Grimm   May 22, 2022": [
+  "Praying For Purpose": [
     {
       "id": "video93",
       "title": "Praying For Purpose   Pastor Michael Grimm   May 22, 2022",
@@ -2171,10 +2153,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:19.796Z"
+      "dateAdded": "2024-10-26T11:23:57.856Z"
     }
   ],
-  "Presence   Reverend Rob Merki   June 18, 2023": [
+  "Presence": [
     {
       "id": "video94",
       "title": "Presence   Reverend Rob Merki   June 18, 2023",
@@ -2195,7 +2177,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.565Z"
+      "dateAdded": "2024-10-26T11:23:57.855Z"
     }
   ],
   "Pursuing the Heart of God": [
@@ -2219,7 +2201,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.564Z"
+      "dateAdded": "2024-10-26T11:23:57.855Z"
     },
     {
       "id": "video96",
@@ -2241,7 +2223,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.563Z"
+      "dateAdded": "2024-10-26T11:23:57.854Z"
     },
     {
       "id": "video97",
@@ -2263,7 +2245,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.563Z"
+      "dateAdded": "2024-10-26T11:23:57.853Z"
     },
     {
       "id": "video98",
@@ -2285,7 +2267,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.562Z"
+      "dateAdded": "2024-10-26T11:23:57.853Z"
     },
     {
       "id": "video99",
@@ -2307,10 +2289,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.562Z"
+      "dateAdded": "2024-10-26T11:23:57.852Z"
     }
   ],
-  "Pursuing the heart of God   Pastor Ken Bushey   October 15, 2023": [
+  "Pursuing the heart of God": [
     {
       "id": "video100",
       "title": "Pursuing the heart of God   Pastor Ken Bushey   October 15, 2023",
@@ -2331,10 +2313,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.561Z"
+      "dateAdded": "2024-10-26T11:23:57.852Z"
     }
   ],
-  "Refresh Your Memory   Pastor Ken Bushey   January 9, 2022": [
+  "Refresh Your Memory": [
     {
       "id": "video101",
       "title": "Refresh Your Memory   Pastor Ken Bushey   January 9, 2022",
@@ -2355,10 +2337,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.561Z"
+      "dateAdded": "2024-10-26T11:23:57.851Z"
     }
   ],
-  "Refreshed By Generosity   Pastor Ken Bushey   January 27, 2022": [
+  "Refreshed By Generosity": [
     {
       "id": "video102",
       "title": "Refreshed By Generosity   Pastor Ken Bushey   January 27, 2022",
@@ -2379,10 +2361,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.560Z"
+      "dateAdded": "2024-10-26T11:23:57.851Z"
     }
   ],
-  "Refreshing Repentance   Pastor Ken Bushey   January 16, 2022": [
+  "Refreshing Repentance": [
     {
       "id": "video103",
       "title": "Refreshing Repentance   Pastor Ken Bushey   January 16, 2022",
@@ -2403,7 +2385,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.560Z"
+      "dateAdded": "2024-10-26T11:23:57.850Z"
     }
   ],
   "Robert Kilpatrick Memorial Service": [
@@ -2427,7 +2409,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.559Z"
+      "dateAdded": "2024-10-26T11:23:57.850Z"
     }
   ],
   "Rooted": [
@@ -2451,7 +2433,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.559Z"
+      "dateAdded": "2024-10-26T11:23:57.849Z"
     },
     {
       "id": "video106",
@@ -2473,7 +2455,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.558Z"
+      "dateAdded": "2024-10-26T11:23:57.849Z"
     },
     {
       "id": "video107",
@@ -2495,7 +2477,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.558Z"
+      "dateAdded": "2024-10-26T11:23:57.848Z"
     },
     {
       "id": "video108",
@@ -2517,7 +2499,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.557Z"
+      "dateAdded": "2024-10-26T11:23:57.848Z"
     },
     {
       "id": "video109",
@@ -2539,7 +2521,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.555Z"
+      "dateAdded": "2024-10-26T11:23:57.847Z"
     },
     {
       "id": "video110",
@@ -2561,7 +2543,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.554Z"
+      "dateAdded": "2024-10-26T11:23:57.847Z"
     }
   ],
   "September 22, 2024 Second Service Baptisms": [
@@ -2585,10 +2567,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.553Z"
+      "dateAdded": "2024-10-26T11:23:57.844Z"
     }
   ],
-  "Sunday Morning Revival   Billy Huddleston   October 9, 2022": [
+  "Sunday Morning Revival": [
     {
       "id": "video112",
       "title": "Sunday Morning Revival   Billy Huddleston   October 9, 2022",
@@ -2609,10 +2591,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.553Z"
+      "dateAdded": "2024-10-26T11:23:57.843Z"
     }
   ],
-  "Sunday PM Revival   Billy Huddleston   October 9, 2022": [
+  "Sunday PM Revival": [
     {
       "id": "video113",
       "title": "Sunday PM Revival   Billy Huddleston   October 9, 2022",
@@ -2633,7 +2615,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.552Z"
+      "dateAdded": "2024-10-26T11:23:57.842Z"
     }
   ],
   "Sunday Service": [
@@ -2657,10 +2639,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.551Z"
+      "dateAdded": "2024-10-26T11:23:57.842Z"
     }
   ],
-  "Suppertime   Pastor Ken Bushey   March 13, 2022": [
+  "Suppertime": [
     {
       "id": "video115",
       "title": "Suppertime   Pastor Ken Bushey   March 13, 2022",
@@ -2681,10 +2663,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.551Z"
+      "dateAdded": "2024-10-26T11:23:57.841Z"
     }
   ],
-  "The Garden   Pastor Ken Bushey   March 20, 2022": [
+  "The Garden": [
     {
       "id": "video116",
       "title": "The Garden   Pastor Ken Bushey   March 20, 2022",
@@ -2705,7 +2687,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.550Z"
+      "dateAdded": "2024-10-26T11:23:57.840Z"
     }
   ],
   "The Light of Christmas": [
@@ -2729,7 +2711,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.549Z"
+      "dateAdded": "2024-10-26T11:23:57.840Z"
     },
     {
       "id": "video118",
@@ -2751,10 +2733,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.548Z"
+      "dateAdded": "2024-10-26T11:23:57.838Z"
     }
   ],
-  "The Lord's Refreshment   Pastor Ken Bushey   January 23, 2022": [
+  "The Lord's Refreshment": [
     {
       "id": "video119",
       "title": "The Lord's Refreshment   Pastor Ken Bushey   January 23, 2022",
@@ -2775,10 +2757,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.549Z"
+      "dateAdded": "2024-10-26T11:23:57.839Z"
     }
   ],
-  "The Trial   Pastor Ken Bushey   April 3, 2022": [
+  "The Trial": [
     {
       "id": "video120",
       "title": "The Trial   Pastor Ken Bushey   April 3, 2022",
@@ -2799,7 +2781,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.547Z"
+      "dateAdded": "2024-10-26T11:23:57.837Z"
     }
   ],
   "True You": [
@@ -2823,7 +2805,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.547Z"
+      "dateAdded": "2024-10-26T11:23:57.836Z"
     },
     {
       "id": "video122",
@@ -2845,7 +2827,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.546Z"
+      "dateAdded": "2024-10-26T11:23:57.837Z"
     },
     {
       "id": "video123",
@@ -2867,7 +2849,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.545Z"
+      "dateAdded": "2024-10-26T11:23:57.835Z"
     },
     {
       "id": "video124",
@@ -2889,10 +2871,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.543Z"
+      "dateAdded": "2024-10-26T11:23:57.835Z"
     }
   ],
-  "Tuesday PM Revival   Billy Huddleston   October 10, 2022": [
+  "Tuesday PM Revival": [
     {
       "id": "video125",
       "title": "Tuesday PM Revival   Billy Huddleston   October 10, 2022",
@@ -2913,7 +2895,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.544Z"
+      "dateAdded": "2024-10-26T11:23:57.834Z"
     }
   ],
   "Two Trees": [
@@ -2937,7 +2919,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.541Z"
+      "dateAdded": "2024-10-26T11:23:57.833Z"
     },
     {
       "id": "video127",
@@ -2959,7 +2941,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.543Z"
+      "dateAdded": "2024-10-26T11:23:57.832Z"
     },
     {
       "id": "video128",
@@ -2981,7 +2963,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.540Z"
+      "dateAdded": "2024-10-26T11:23:57.831Z"
     },
     {
       "id": "video129",
@@ -3003,7 +2985,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.540Z"
+      "dateAdded": "2024-10-26T11:23:57.828Z"
     },
     {
       "id": "video130",
@@ -3025,7 +3007,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.539Z"
+      "dateAdded": "2024-10-26T11:23:57.827Z"
     },
     {
       "id": "video131",
@@ -3047,7 +3029,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.537Z"
+      "dateAdded": "2024-10-26T11:23:57.825Z"
     },
     {
       "id": "video132",
@@ -3069,7 +3051,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.536Z"
+      "dateAdded": "2024-10-26T11:23:57.824Z"
     }
   ],
   "Vital Connections": [
@@ -3093,7 +3075,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.535Z"
+      "dateAdded": "2024-10-26T11:23:57.823Z"
     },
     {
       "id": "video134",
@@ -3115,7 +3097,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.531Z"
+      "dateAdded": "2024-10-26T11:23:57.821Z"
     },
     {
       "id": "video135",
@@ -3137,7 +3119,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.577Z"
+      "dateAdded": "2024-10-26T11:23:57.817Z"
     },
     {
       "id": "video136",
@@ -3159,10 +3141,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.528Z"
+      "dateAdded": "2024-10-26T11:23:57.868Z"
     }
   ],
-  "Wait for It...Heaven Waits   Pastor Ken Bushey   April 24, 2022": [
+  "Wait for It": [
     {
       "id": "video137",
       "title": "Wait for It...Heaven Waits   Pastor Ken Bushey   April 24, 2022",
@@ -3183,10 +3165,8 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.577Z"
-    }
-  ],
-  "Wait for It": [
+      "dateAdded": "2024-10-26T11:23:57.816Z"
+    },
     {
       "id": "video138",
       "title": "Wait for It: Make Space   Pastor Ken Bushey   May 29, 2022",
@@ -3207,10 +3187,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.576Z"
+      "dateAdded": "2024-10-26T11:23:57.867Z"
     }
   ],
-  "Wednesday PM Revival   Billy Huddleston   October 12, 2022": [
+  "Wednesday PM Revival": [
     {
       "id": "video139",
       "title": "Wednesday PM Revival   Billy Huddleston   October 12, 2022",
@@ -3231,10 +3211,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.576Z"
+      "dateAdded": "2024-10-26T11:23:57.867Z"
     }
   ],
-  "When Conversations Become Prayers   Pastor Rob Merki   May 8, 2022": [
+  "When Conversations Become Prayers": [
     {
       "id": "video140",
       "title": "When Conversations Become Prayers   Pastor Rob Merki   May 8, 2022",
@@ -3255,10 +3235,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.575Z"
+      "dateAdded": "2024-10-26T11:23:57.866Z"
     }
   ],
-  "When Darkness Is Your Friend!   Reverend Jack McCormick   June 25, 2023": [
+  "When Darkness Is Your Friend!": [
     {
       "id": "video141",
       "title": "When Darkness Is Your Friend!   Reverend Jack McCormick   June 25, 2023",
@@ -3279,7 +3259,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.575Z"
+      "dateAdded": "2024-10-26T11:23:57.866Z"
     }
   ],
   "Where Do We Grow From Here": [
@@ -3303,7 +3283,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.527Z"
+      "dateAdded": "2024-10-26T11:23:57.812Z"
     },
     {
       "id": "video143",
@@ -3325,7 +3305,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.574Z"
+      "dateAdded": "2024-10-26T11:23:57.865Z"
     },
     {
       "id": "video144",
@@ -3347,7 +3327,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.574Z"
+      "dateAdded": "2024-10-26T11:23:57.865Z"
     },
     {
       "id": "video145",
@@ -3369,7 +3349,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.573Z"
+      "dateAdded": "2024-10-26T11:23:57.865Z"
     },
     {
       "id": "video146",
@@ -3391,10 +3371,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.519Z"
+      "dateAdded": "2024-10-26T11:23:57.807Z"
     }
   ],
-  "Where Do We Grow From Here？ Grow Disciples   Pastor Ken Bushey   February 5, 2023": [
+  "Where Do We Grow From Here？ Grow Disciples": [
     {
       "id": "video147",
       "title": "Where Do We Grow From Here？ Grow Disciples   Pastor Ken Bushey   February 5, 2023",
@@ -3415,10 +3395,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.573Z"
+      "dateAdded": "2024-10-26T11:23:57.864Z"
     }
   ],
-  "Who Is My Neighbor？   Pastor Ken Bushey   February 13, 2021": [
+  "Who Is My Neighbor？": [
     {
       "id": "video148",
       "title": "Who Is My Neighbor？   Pastor Ken Bushey   February 13, 2021",
@@ -3439,10 +3419,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.572Z"
+      "dateAdded": "2024-10-26T11:23:57.864Z"
     }
   ],
-  "Your Neighborhood   Pastor Ken Bushey   February 6, 2022": [
+  "Your Neighborhood": [
     {
       "id": "video149",
       "title": "Your Neighborhood   Pastor Ken Bushey   February 6, 2022",
@@ -3463,10 +3443,10 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.572Z"
+      "dateAdded": "2024-10-26T11:23:57.863Z"
     }
   ],
-  "Youth Sunday   Pastor Marcus Cleveland   August 18, 2024": [
+  "Youth Sunday": [
     {
       "id": "video150",
       "title": "Youth Sunday   Pastor Marcus Cleveland   August 18, 2024",
@@ -3487,7 +3467,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.571Z"
+      "dateAdded": "2024-10-26T11:23:57.863Z"
     }
   ],
   "iExam": [
@@ -3511,7 +3491,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.571Z"
+      "dateAdded": "2024-10-26T11:23:57.862Z"
     },
     {
       "id": "video152",
@@ -3533,7 +3513,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.570Z"
+      "dateAdded": "2024-10-26T11:23:57.862Z"
     },
     {
       "id": "video153",
@@ -3555,7 +3535,7 @@
           }
         ]
       },
-      "dateAdded": "2024-10-26T11:15:20.570Z"
+      "dateAdded": "2024-10-26T11:23:57.861Z"
     }
   ]
 }

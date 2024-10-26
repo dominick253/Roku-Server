@@ -25,10 +25,8 @@ async function generateJsonFeed() {
                 // Extract the full title
                 const fullTitle = path.parse(file).name.replace(/[|｜]/g, ' ').replace(/[：]/g, ':');
 
-                // Extract theme from title: first try ':', then double space, then '|'
-                const theme = fullTitle.split(':')[0].trim() || 
-                              fullTitle.split('  ')[0].trim() || 
-                              fullTitle.split('|')[0].trim();
+                // Extract theme from title: check for first instance of "  ", ":", "...", "|"
+                const theme = fullTitle.split(/ {2,}|:|\.{3}|[|]/)[0].trim(); // Regex updated for double space and ellipsis
 
                 // Extract release date from title
                 const releaseDate = extractReleaseDateFromTitle(fullTitle);
@@ -65,10 +63,8 @@ async function generateJsonFeed() {
 
         // Organize movies into theme categories
         sortedMovies.forEach(movie => {
-            // Extract theme: first try ':', then double space, then '|'
-            const theme = movie.title.split(':')[0]?.trim() || 
-                          movie.title.split('  ')[0]?.trim() || 
-                          movie.title.split('|')[0]?.trim();
+            // Extract theme using the same regex
+            const theme = movie.title.split(/ {2,}|:|\.{3}|[|]/)[0]?.trim();
             const existingCategory = themeCategories.find(cat => cat.themeTitle === theme);
             if (!existingCategory) {
                 themeCategories.push({ themeTitle: theme, videos: [movie] });
@@ -95,7 +91,6 @@ async function generateJsonFeed() {
         console.error(`Error generating JSON feed: ${err.message}`);
     }
 }
-
 
 
 async function generateThumbnail(filePath, title) {
