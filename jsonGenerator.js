@@ -116,7 +116,7 @@ async function generateThumbnail(filePath, title) {
                     timestamps: ['00:01:01.000'], // Get a frame at 1 second
                     filename: `${title}.jpg`,
                     folder: path.join(__dirname, 'output', 'thumbnails'), // Ensure this directory exists
-                    size: '320x240' // Change to desired size
+                    size: '1280x720' // Change to desired size
                 });
         }
     });

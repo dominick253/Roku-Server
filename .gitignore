@@ -3,6 +3,7 @@ Videos/
 
 # Ignore the output directory
 output/thumbnails
+output/thumbnails.bk
 
 # Ignore the .env file
 .env
